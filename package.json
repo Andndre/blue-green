@@ -20,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "blue-green",
+        "label": "blue-green-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/blue-green-color-theme.json"
+        "path": "./themes/blue-green-theme-color-theme.json"
       }
     ]
   }
