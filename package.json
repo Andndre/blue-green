@@ -1,0 +1,21 @@
+{
+    "name": "blue-green",
+    "displayName": "blue-green",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "blue-green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blue-green-color-theme.json"
+            }
+        ]
+    }
+}
